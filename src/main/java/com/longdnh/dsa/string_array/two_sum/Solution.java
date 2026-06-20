@@ -1,4 +1,4 @@
-package com.longdnh.dsa.two_sum;
+package com.longdnh.dsa.string_array.two_sum;
 
 import java.util.HashMap;
 import java.util.Map;

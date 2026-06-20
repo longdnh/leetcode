@@ -1,4 +1,4 @@
-package com.longdnh.dsa.valid_parenthese;
+package com.longdnh.dsa.string_array.valid_parenthese;
 
 import java.util.HashMap;
 import java.util.Map;

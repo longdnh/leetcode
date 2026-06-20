@@ -1,4 +1,4 @@
-package com.longdnh.dsa.roman_to_integer;
+package com.longdnh.dsa.string_array.roman_to_integer;
 
 import java.util.HashMap;
 import java.util.Map;
